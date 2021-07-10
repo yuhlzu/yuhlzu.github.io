@@ -6,7 +6,7 @@
   <link href="https://yuhlzu.github.io/atom.xml" rel="self"/>
   
   <link href="https://yuhlzu.github.io/"/>
-  <updated>2021-07-10T14:02:48.803Z</updated>
+  <updated>2021-07-10T14:35:44.834Z</updated>
   <id>https://yuhlzu.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yuhlzu.github.io/2021/07/10/2021-07-10-ubuntu20.04%E5%85%A8%E6%96%B0%E9%85%8D%E7%BD%AE/"/>
     <id>https://yuhlzu.github.io/2021/07/10/2021-07-10-ubuntu20.04%E5%85%A8%E6%96%B0%E9%85%8D%E7%BD%AE/</id>
     <published>2021-07-10T03:12:00.000Z</published>
-    <updated>2021-07-10T14:02:48.803Z</updated>
+    <updated>2021-07-10T14:35:44.834Z</updated>
     
     
     <summary type="html">ubuntu20.04安装配置clash代理，oh-my-zsh，ssh远程访问，systemctl自启服务管理，fail2ban暴力登录拦截，cuda11.4-470，docker，code-server，nextcloud客户端，idea、AS、pycharm，pip3，lammps，等等</summary>
@@ -341,29 +341,6 @@
   </entry>
   
   <entry>
-    <title>windows包管理scoop配置使用</title>
-    <link href="https://yuhlzu.github.io/2020/11/28/2020-11-28-windows%E5%8C%85%E7%AE%A1%E7%90%86scoop%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8/"/>
-    <id>https://yuhlzu.github.io/2020/11/28/2020-11-28-windows%E5%8C%85%E7%AE%A1%E7%90%86scoop%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8/</id>
-    <published>2020-11-28T03:58:00.000Z</published>
-    <updated>2021-07-10T06:19:58.984Z</updated>
-    
-    
-    <summary type="html">windows包管理scoop配置使用</summary>
-    
-    
-    
-    <category term="Windows" scheme="https://yuhlzu.github.io/categories/Windows/"/>
-    
-    
-    <category term="windows包管理" scheme="https://yuhlzu.github.io/tags/windows%E5%8C%85%E7%AE%A1%E7%90%86/"/>
-    
-    <category term="scoop" scheme="https://yuhlzu.github.io/tags/scoop/"/>
-    
-    <category term="环境变量配置" scheme="https://yuhlzu.github.io/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Windows Terminal美化配置</title>
     <link href="https://yuhlzu.github.io/2020/11/28/2020-11-28-Windows%20Terminal%E7%BE%8E%E5%8C%96%E9%85%8D%E7%BD%AE/"/>
     <id>https://yuhlzu.github.io/2020/11/28/2020-11-28-Windows%20Terminal%E7%BE%8E%E5%8C%96%E9%85%8D%E7%BD%AE/</id>
@@ -383,6 +360,29 @@
     <category term="cascadia-code字体" scheme="https://yuhlzu.github.io/tags/cascadia-code%E5%AD%97%E4%BD%93/"/>
     
     <category term="iTerm2-Color-Schemes" scheme="https://yuhlzu.github.io/tags/iTerm2-Color-Schemes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>windows包管理scoop配置使用</title>
+    <link href="https://yuhlzu.github.io/2020/11/28/2020-11-28-windows%E5%8C%85%E7%AE%A1%E7%90%86scoop%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8/"/>
+    <id>https://yuhlzu.github.io/2020/11/28/2020-11-28-windows%E5%8C%85%E7%AE%A1%E7%90%86scoop%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-11-28T03:58:00.000Z</published>
+    <updated>2021-07-10T06:19:58.984Z</updated>
+    
+    
+    <summary type="html">windows包管理scoop配置使用</summary>
+    
+    
+    
+    <category term="Windows" scheme="https://yuhlzu.github.io/categories/Windows/"/>
+    
+    
+    <category term="windows包管理" scheme="https://yuhlzu.github.io/tags/windows%E5%8C%85%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="scoop" scheme="https://yuhlzu.github.io/tags/scoop/"/>
+    
+    <category term="环境变量配置" scheme="https://yuhlzu.github.io/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
